@@ -1,0 +1,1 @@
+Here I have cfreated a simple LLM application with Langchain. This application will translate text from English to any other language. LCEL is actually Langchain Expression Language. In this topic I have used Groq , fast AI interface with amazing LPU inference engine.
